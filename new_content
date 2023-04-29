@@ -3,8 +3,7 @@ Changelog:
 - Nueva seccion de noticias. Ahora podras acceder a un nuevo apartado dentro del menu de
   inicio del modpack en el cual podras estar al tanto de todas las novedades, actualizaciones
   y todo lo relacionado con NoHomoLand SMP! 
-- Se ha añadido el mod "Load My Resources", este mod ayuda a que la seccion de noticias del
-  servidor sea posible, no afectara nada al gameplay, pero es necesario dentro del modpack.
+- Se ha añadido el mod "Load My Resources", mod de librería que no afecta al gameplay.
 - Se ha añadido el mod "Flash NPC's, se vienen cositas.
 - Se ha corregido un bug en el que los bloques reforzados de SecurityCraft se veían con un
 tinte oscuro, ahora estos bloques se verán igual a los bloques sin reforzar.
