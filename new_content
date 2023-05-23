@@ -1,8 +1,10 @@
-Como sabran, lastimosamente no se pudo implementar el mod de mochilas al modpack. Pero,
-esa no era la unica sorpresa de esta actualizacion, asi que me complace anunciarles la
-"Voice Update"
+Esta actualizacion viene a ser una actualizacion de emergencia para arreglar un fallo
+detectado con el uso de los tridentes. El bug consiste en que, aunque tengas un tridente
+con el encantamiento Loyalty, este encantamiento no funciona al utilizar el tridente. Con
+esta actualizacion el problema estaria solucionado, y adicional a ello, tambien ahora
+tendras la capacidad de usar el encantamiento Loyalty y Riptide juntos en un solo item,
+cosa que en Minecraft vanilla no se puede realizar.
 
-Con esta nueva actualizacion podremos hablar e interactuar entre nosotros dentro del mismo 
-juego con un voice chat sin la necesidad de un canal de voz de Discord.
-
-Si necesitas informacion adicional puedes clickear el banner del anuncio :D
+Tambien, quisiera avisar que el 8 de Junio tocara hacer el siguiente pago del hosting, si
+alguien quisiera apoyar el proyecto se agradeceria mucho. Si quieres aportar, aporta con
+lo que gustes <3
