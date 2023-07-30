@@ -1,5 +1,20 @@
-Se tuvo que cancelar el antiguo plan de hosting que teniamos con InaNetworks ya que lastimosamente Deus no pudo aportar con la donacion que el normalmente hace para el servidor.
-En el momento que ocurrio esto teniamos pensado cambiar de hosting, ibamos a pasar de InaNetworks a Humble Servers, el cual es el primer hosting que se utilizo para el funcionamiento
-del servidor, esta desicion se iba a tomar asi ya que los planes que ofrecia Humble Servers eran mas economicos y nos iban a permitir aguantar con el servidor un mes mas.
-Pero, gracias a algunas promociones que la pagina de InaNetworks estaba ofreciendo logramos obtener un 70% de descuento de por vida en cualquier plan de hosting de Minecraft. Aun asi,
-esto requeria cambiar la IP que utilizabamos anteriormente con el servidor, por eso mismo tuvimos que mandar esta nueva actualizacion. uwu
+Lista de cambios:
+
+Añadidos/
+- Simple Shops: Este mod agrega tiendas para jugadores que son muy faciles de usar y configurar. Puedes dejarlo en cualquier lugar, ya que ningun otro jugador
+puede romperlo. Si quieres informacion mas detallada de como funciona este mod puedes mirar tutoriales en YouTube que te ayuden a hacer tu propio negocio dentro
+del servidor.
+https://www.curseforge.com/minecraft/mc-mods/simple-shops
+- Ender Mail: Este mod te permite disponer de un Enderman Cartero para poder entregar paquetes en cualquier parte del mundo. O en resumidas palabras, un servicio
+de delivery de paqueteria dentro de Minecraft. Si quieres informacion mas detallada de como funciona este mod puedes mirar tutoriales en YouTube que te ayuden a
+hacer tu propio negocio dentro del servidor.
+https://www.curseforge.com/minecraft/mc-mods/ender-mail
+- Coinage: Este mod agrega 3 monedas nuevas al juego, las cuales no pueden ser crafteadas y pueden ser conseguidas unicamente por medio del nuevo banquero de la
+ciudad del spawn. Intercambiando un lingote de plata puedes obtener una moneda de plata, de la cual se puede derivar en una moneda mas pequeña (moneda de cobre) y
+tambien una moneda mas grande (moneda de oro). Si quieres mas informacion acerca de estas monedas puedes escribir "@coinage" en el buscador de tu inventario para
+ver la lista completa de monedas.
+https://www.curseforge.com/minecraft/mc-mods/coinage
+
+Eliminados/
+- Simple Voice Chat: Este mod fue eliminado debido a que no se encontro una solucion al problema de desconexion que hemos tenido estas ultimas semanas. Debido a
+esto se empezara a utilizar los canales de Discord como medio de comunicacion por voz.
